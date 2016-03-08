@@ -1,0 +1,24 @@
+h1 {
+  color: red;
+  background-color: #ffffcc;
+  border-style: dotted;
+  border-color: green;
+  text-align: center;
+}
+/*.box {
+   width: 450px;
+   height: 65px;
+   border: 3px solid blue;
+   background: #eee;
+   text-align: center;
+} */
+div.parent  {
+    text-align: center; 
+    text-decoration: none;
+    display: block;
+}
+a {
+  background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+}
